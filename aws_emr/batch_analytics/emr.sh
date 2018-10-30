@@ -1,0 +1,1 @@
+aws lambda create-function --region us-west-2 --function-name add --zip-file fileb://main.zip --role <your_arn> --handler main.add --runtime python3.6 --profile lambda_user

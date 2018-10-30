@@ -1,0 +1,3 @@
+https://aws.amazon.com/blogs/big-data/building-event-driven-batch-analytics-on-aws/
+https://aws.amazon.com/blogs/big-data/using-aws-lambda-for-event-driven-data-processing-pipelines/
+https://aws.amazon.com/blogs/compute/ad-hoc-big-data-processing-made-simple-with-serverless-mapreduce/
